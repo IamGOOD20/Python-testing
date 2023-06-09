@@ -1,5 +1,4 @@
-from my_funcs.file_workers import read_from_file
-import pytest
+from basic.my_funcs.file_workers import read_from_file
 
 
 def create_test_data(test_data):
